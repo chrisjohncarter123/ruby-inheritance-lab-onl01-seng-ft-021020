@@ -25,4 +25,4 @@ jim.first_name = "Jim"
 jim.last_name = "Bob"
 #jim.learn(some_knowledge)
 
-steve.learn(avi.some_knowledge
+steve.learn(avi.teach)
