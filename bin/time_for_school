@@ -26,3 +26,12 @@ jim.last_name = "Bob"
 #jim.learn(some_knowledge)
 
 steve.learn(avi.teach)
+
+chris = Student.new
+chris.first_name = "Chris"
+chris.last_name = "Carter"
+
+puts "Steve has this knowledge '#{steve.knowledge}' from Avi"
+
+puts "Chris has this knowledge '#{chris.knowledge}' from Avi"
+
